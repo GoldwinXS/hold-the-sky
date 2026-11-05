@@ -1,0 +1,87 @@
+{
+ "title": {
+  "title": "Zoriv",
+  "seconds": 148.67,
+  "gain": 1.5954324274128153,
+  "loop": {
+   "start": 1.0,
+   "end": 147.66666666666666
+  }
+ },
+ "night_a": {
+  "title": "Blackout",
+  "seconds": 130.0,
+  "gain": 7.571112579929992,
+  "loop": {
+   "start": 1.0,
+   "end": 129.0
+  }
+ },
+ "night_b": {
+  "title": "Curfew",
+  "seconds": 122.0,
+  "gain": 5.6504066997068305,
+  "loop": {
+   "start": 1.0,
+   "end": 121.0
+  }
+ },
+ "raid": {
+  "title": null,
+  "seconds": 104.86,
+  "gain": 1.3286094529124393,
+  "loop": {
+   "start": 1.0,
+   "end": 103.85714285714286
+  }
+ },
+ "raid_hi": {
+  "title": null,
+  "seconds": 104.86,
+  "gain": 1.3286094529124393,
+  "loop": {
+   "start": 1.0,
+   "end": 103.85714285714286
+  }
+ },
+ "morning": {
+  "title": "After the Night",
+  "seconds": 93.99,
+  "gain": 3.637835598925031
+ },
+ "victory": {
+  "title": null,
+  "seconds": 53.64,
+  "gain": 0.9970685438397453
+ },
+ "defeat": {
+  "title": null,
+  "seconds": 58.71,
+  "gain": 8.95462610172104
+ },
+ "day_a": {
+  "title": "Market Morning",
+  "seconds": 114.26,
+  "gain": 1.4890648121999255
+ },
+ "day_b": {
+  "title": "Sunflower",
+  "seconds": 96.42,
+  "gain": 2.2014151524385914
+ },
+ "day_c": {
+  "title": "Kolomyika",
+  "seconds": 96.51,
+  "gain": 1.3180195885866286
+ },
+ "day_d": {
+  "title": "Zoriv",
+  "seconds": 132.18,
+  "gain": 2.535852050771419
+ },
+ "day_e": {
+  "title": "The Long Street",
+  "seconds": 140.34,
+  "gain": 2.942204832266525
+ }
+}
